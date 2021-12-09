@@ -1,0 +1,19 @@
+.player-options img,
+.enemy-options img {
+  max-width: 180px;
+  opacity: 0.4;
+  cursor: pointer;
+}
+
+.player-options,
+.enemy-options {
+  width: 50%;
+}
+
+.align {
+  display: flex;
+}
+
+.vencedor {
+  text-align: center;
+}
